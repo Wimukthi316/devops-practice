@@ -10,3 +10,5 @@ c=a-o
 
 
 #divition
+
+#multiplication
